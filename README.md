@@ -2,12 +2,12 @@
 
 ## Informações: 
     
-    - `git clone https://github.com/rodrigo2005/votacao.git`
-    - `cd votacao`
-    - `mvn clean install teste jmeter:jmeter`
-    - `docker-compose build --no-cache`
-    - `docker-compose up`
-    
+    - `git clone https://github.com/rodrigo2005/funcionarios.git`
+ 
+ Ao iniciar o projeto, o sistema sobe um BD em memoria, as tabelas já são criadas e os dados das tabelas de cargos e deparatamentos já são populadas com informações pre-definidas 
+ constantes no arquivo data.sql
+ 
+ 
 ## Usado nos cenários 
 
     - `Java 8 `
